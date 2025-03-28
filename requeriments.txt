@@ -1,6 +1,0 @@
-streamlit
-openai-whisper
-ffmpeg-python
-spacy
-scikit-learn
-gensim
