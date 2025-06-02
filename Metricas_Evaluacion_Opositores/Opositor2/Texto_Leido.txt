@@ -1,0 +1,138 @@
+DELICNUENCIA ITINERANTE. ROBOS EN DOMICLIO, GARAJES, LOCALES, BUTRONES 
+
+modalidad delictiva desarrollada por delincuencia de alta movilidad, el marco procedimental de referencia también estará definido en el PLAN OPERATIVO CONTRA LA DELINCUENCIA ITINERANTE.
+
+finalidad de las actuaciones:  incrementar los niveles de eficacia policial mediante la prevención y la mejor investigación de estos delitos. 
+
+consulta de las aplicaciones SIDENPOL, SEC HIPEST, SIG… con determinación de zonas de mayor incidencia, viviendas tipo, modus operandi, franjas horarias y cualesquiera otros aspectos de interés.
+
+Junta Local de Seguridad (JLS), para conocimiento y aprobación del Plan y establecer la forma de coordinación y colaboración con las demás FCS.
+
+Áreas policiales de la Comisaría, así como Policía Local y Seguridad Privada
+
+POLICIA JUDICIAL
+
+Indicaciones para las ODAC:
+
+describir en las denuncias lo más detalladamente posible: 
+
+efectos sustraídos (marcas, grabaciones, etc…), requiriendo e incorporando a ser posible imágenes de los objetos facilitados por los denunciantes
+
+ grabando los mismos EN APLICACIONES POLICIALES
+
+INVESTIGACIONES
+
+COORDINACION CON OTRAS PLANTILLAS: Apertura de investigas, cruces en unidades de inteligencia territorial
+
+Reuniones con las compañías de seguros y alarma.
+
+Compañías de compraventa y de segunda mano
+
+Patrullas inteligentes y preventivas por Informar a SC de forma actual y urgente, de los modus operandi empleados en este tipo de hechos, de zonas de mayor influencia, así como de los posibles autores identificados de los cuales interesa su detención, facilitándose en la medida de lo posible fotografías, imágenes o cualquier otro dato que posibilite su localización.
+
+Control de posibles receptadores de objetos sustraídos, casas de empeño y compraventa, intensificando la presencia policial y el control de dichos establecimientos.
+
+Realizar con la periodicidad que establezca la Jefatura Superior exposiciones de objetos recuperados para su posible identificación por las víctimas. Utilización por su parte de la exposición virtual del portal de la Policía.
+
+Promover la adopción de prácticas de autoprotección ciudadana, contactando con comunidades de vecinos para prevenir los robos tanto en el interior como en el exterior (medidas de autoprotección previstas en el plan contra la delincuencia itinerante).
+
+Campañas de prevención e información por participación ciudadana y prensa 
+
+POLICÍA CIENTÍFICA
+Acta de IO Técnico policial e identificación por huellas en vivienda. 
+Se incautarán los bombines forzados en el caso de que se ocupe una herramienta que haya podido ser utilizada en estos hechos, todo lo cual será remitido al Grupo de Trazas Instrumentales, para su cotejo y emisión de Informe Pericial procedente.
+
+
+Actuación con la víctima:
+medidas asistenciales
+De protección.
+Traslado a un Centro sanitarios  Reconocimiento médico y posterior 
+Informe médico  forense  Parte facultativo  Lesiones; reportaje fotográfico; 
+Actuaciones con testigos
+Entrevista reservada
+¿Quiere denunciar?  > Activación de Protocolo Cero
+Agresor persistente víctima de otro agresor o agresiones previas:
+Comunicación a la víctima de esta circunstancia
+
+Actuaciones con el agresor:
+ Detención
+retirada de armas 
+
+En el lugar de los hechos: aseguramiento
+Atención especializada de asistencia letrada
+
+Atestado e investigación por miembros de UFAM
+Las Fuerzas y Cuerpos de Seguridad deberán recoger en el atestado las diligencias y contenidos mínimos que se acompañan como Anexo I del Protocolo de actuación de las fuerzas y cuerpos de seguridad y de coordinación con órganos judiciales sobre protección de víctimas de violencia de género:
+Información de derechos a la víctima.
+Manifestación de la víctima.
+Datos de la víctima y persona presuntamente agresora.
+Datos del grupo familiar o núcleo de convivencia.
+Datos de la vivienda y patrimoniales.
+Hechos
+Solicitud de orden de protección.
+Comparecencia y manifestación de la persona investigada.
+Manifestación de testigos.
+Declaración de los agentes policiales que hayan intervenido en auxilio de la víctima.
+Verificación y comprobación de la denuncia.
+Diligencia de detención e información de derechos a la persona detenida.
+Diligencia de incautación de armas.
+Diligencia de situación administrativa de víctima extranjera.
+Aportación de antecedentes referidos a la persona presuntamente agresora y situación administrativa de la persona denunciada extranjera.
+Diligencia de remisión de los informes médicos, psicológicos y sociales de la víctima.
+Diligencia de remisión de los informes médicos, psicológicos y sociales de la persona presuntamente agresora.
+Evaluación del riesgo.
+Diligencias de los sistemas de protección integral a las víctimas.
+Diligencia de remisión.
+Remisión de diligencia a Fiscal Especializado
+Fijación de Juicio rápido para los JVM con copia al Fiscal Especializado o JIG
+Solicitud de orden de Protección y medidas de Alejamiento
+Consulta del registro Central para la Protección de Víctimas de Violencia Doméstica para verificar la existencia de partes, denuncias, antecedentes del agresor, OP Anteriores
+Aviso a Servicios Sociales y asistenciales a las víctimas
+
+GESTIÓN DE CASOS EN EL SISTEMA VIOGEN
+Estimación inicial de la situación de Riesgo , VPR
+
+En función del tipo de riesgo: no apreciado, bajo, medio, alto y extremos se tomarán medidas correspondientes si procede. 
+Informe automatizado que no se puede modificar
+
+¿Existe Caso Previo?
+Inactivación de casos: NO Apreciado y bajo
+     Inactivos si no hay Medidas de protección Policial
+
+Activos: Medio_ Alto y Extremo, en todo caso.
+
+Tras la primera VPR, se genera un Plan de Seguridad Personalizado (PSP) disponible también en VioGen
+
+Evolución del nivel del riesgo (VPER)
+VPER S , atendiendo al tiempo trascurrido.
+VPER  C: con incidencia por una nueva agresión o hecho significativo:
+Si han pasado +6 meses desde la inactivación: un nueva agresión , realizar nueva VPR
+
+Si han pasado 6 meses,   VPER  C
+Por causa distinta a una nueva agresión , VPER S
+
+Medidas policiales de protección en función de cada nivel de riesgo:
+De tipo asistencial;
+De tipo operativo para la víctima 
+De tipo de Operativo para el agresor
+
+Medidas del Plan Personalizado incluyen medidas de autoprotección en los avisos a Policia; en el hogar antes una posible agresión;
+En presencia de menores;
+Rutas de huida;
+Uso adecuado de redes sociales y TIC
+En el caso del que el agresor haya abandonado el domicilio 
+En el lugar de trabajo
+
+Traspaso de casos a través del sistema VIOGEN entre Cuerpos y Policía Local.
+Supuestos a la Fiscalía del seguimiento mediante dispositivos telemático de control:
+
+Casos de Especial relevancia con nivel de >Riesgo Alto o Extremo de la VPR.
+
+VICTIMA EXTRANJERA EN SITUACIÓN IRREGULAR
+
+Una vez se tenga constancia de la existencia de una OP (en su defecto, un informe del MF que indique la existencia de indicios de VdG), se podrá solicitar una autorización de residencia y trabajo por circunstancias excepcionales, así como para sus hijos menores.
+
+Una vez realizada la solicitud, no se incoará expediente administrativo sancionador, serán suspendiendo s tramitación o las resoluciones de expulsión o devolución eventualmente en tanto en cuanto no recaiga resolución penal.
+
+Si finaliza con una sentencia condenatoria, tiene 1 mes para solicitar el TIE y la autorización será por 5 años.
+
