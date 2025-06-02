@@ -1,0 +1,149 @@
+Informe generado el: 17/04/2025 14:32:59
+Archivo de audio: Opositor_3.m4a
+Este informe corresponde al análisis del archivo de audio cargado por el evaluador.
+
+=== TRANSCRIPCIÓN ===
+
+ Violencia de género L.O. 1 diagonal 2004 Medidas de protección integral contra la violencia de género ISES4 diagonal 2019 protocolo VPR, D.V.D.G y gestión de la seguridad de las víctimas ISES5 diagonal 2021 protocolo 0 primer contacto policial con VDG en situación de desprotección ISES8 diagonal 2021 medidas para prevenir VDG en agresores persistentes denuncias previas con la misma o con distintas 2021 protocolo de actuación en supuestos de VDG en PN ISES9 de 2022 actualiza procedimientos actuación de gestión de casos resistentes ISES1 diagonal 23 obligación de comunicación de la víctima de los antecedentes del agresor en casos de agresores persistentes ISES5 diagonal 2023 IPLANES trategico para Prevención Violencia Sexual 2023 a 2017 ISES2 diagonal 2024 actualización de criterios para activación en activación de casos en Sistema de seguimiento integral de casos, Sistema Biógen Guía de actuación policial ante VDG de la OFAM Actuación con la víctima medidas asistenciales de protección traslado a un centro sanitario reconocimiento médico y posterior informe médico, forense y parte facultativo lesiones, reportaje fotográfico actuaciones contestivos entrevista reservada quiere denunciar activación de protocolo cero agresor persistente víctima de otro agresor o agresiones previas comunicación a la víctima de esta circunstancia actuaciones con el agresor detención retirada de armas en el lugar de los hechos aseguramiento atención especializada de asistencia letrada ha testado de investigación por miembros de OFAM las fuerzas y cuerpos de seguridad deberán recoger en el atestado las de legiones y los contenidos mínimos que se acompañan como anex uno en protocolo de actuación de fuerzas y cuerpos de seguridad de coordinación con órganos judiciales sobre la protección de violencia de género información de derecho a la víctima manifestación de la víctima datos de la víctima y persona y persona presentamente agresora datos del grupo familiar o núcleo de convidencia datos de vivienda patrimoniales hechos solicitud de protección comparecencia y manifestación de la persona investigada manifestación de testigos declaración de los agentes policiales que he intervenido en el auxilio de la víctima verificación y comprobación de la denuncia disigencia de tensión de información derecho a persona detenida disigencia de encoutación de armas disigencia de situación administrativa de la víctima extranjera aportación de antecedentes referidos a la persona presentamente agresora y situación administrativa de la persona denunciada extranjera digigencia de remisión de informeos médicos ycológicos y sociales de la víctima digigencia de remisión de informeos médicos psicológicos y sociales de la persona presentamente agresora evaluación del riesgo emergencias de sistema de protección interralada víctimas y diregencias de remisión remisión de diligencia a fiscales especializado fijación de juicio rápido para los JVM con copia al fiscales especializado o JIG solicitud de orden de protección y medidas de alejamiento consulta del registro central para la protección de víctimas de violencia doméstica para verificarla existencia de partes denuncias antecedentes del agresor o peanteriores aviso a servicios sociales y asistenciales a las víctimas gestión de casos en el sistema biogen estimación inicial de la situación del riesgo WPR en función del tipo del riesgo no apreciado, bajo, medio, alto y extremo se tomarán medidas correspondientes y procede informe automatizado que no se puede modificar existe caso previo inactivación de casos no apreciado y bajo inactivos si no hay medidas de protección policial activos medio guión bajo alto y extremo en todo caso tras la primera WPR se genera un plan de seguridad personalizado PSP disponible también en biogen evolución del nivel del riesgo verese atendiendo al tiempo trascurrido verce con incidencia por una nueva agresión o hecho significativo si han pasado más seis meses desde la inactivación un nueva agresión realizar nueva WPR si han pasado menos seis meses, percé por causa distinta a una nueva agresión de Pérez medidas policiales de protección en función de cada nivel del riesgo de tipo asistencial de tipo operativo para la víctima de tipo de operativo para la agresor medidas del plan personalizado incluyen medidas de auto protección en los avisos a policía en el hogar antes una posible agresión en presencia de menores rutas de huida uso adecuado de redes sociales y tic en el caso del que el agresor haya abandonado el domicilio en el lugar de trabajo traspaso de casos a través del sistema biogen entre cuerpo y policía local supuestos a la ciscalía del seguimiento mediante dispositivos telemático de control casos de especial relevancia con nivel del riesgo alto o extremo de la WPR víctima extranjera en situación irregular una vez se tenga constancia de la existencia de una OP en su defecto un informe del MS que indique la existencia de indicios de WBG se podrá solicitar una autorización de residencia y trabajo por circunstancias excepcionales así como para sus hijos menores una vez realizada la solicitud no se incoara expediente administrativos sancionador serán suspendiendo ese tramitación a las resoluciones de expulsión o devolución eventualmente en tanto en cuanto no recaiga resolución penal si finaliza con una sentencia condenatoria tiene un mes para solicitar el TIE y la autorización será por 5 años
+
+
+=== MÉTRICAS ===
+
+Precisión Verificación: 57.81%
+
+Coherencia LDA: 0.239
+
+Silhouette Score: 0.183
+
+Tiempo de Transcripción: 62.80 seg
+
+
+=== VERIFICACIÓN DE CONCEPTOS ===
+
+- Violencia de género: Encontrado (Clave)
+
+- Medidas de protección integral: Encontrado (Clave)
+
+- ISES 4/2019: No encontrado (Clave)
+
+- VPR: Encontrado (Clave)
+
+- Valoración Policial de riesgo: No encontrado (Clave)
+
+- Niveles de riesgo: No encontrado (Clave)
+
+- Orden de proteccion: No encontrado (Clave)
+
+- Diligencias de incautación de armas: No encontrado (Clave)
+
+- Domicilio de la víctima: No encontrado (Clave)
+
+- Ley organica 1/2004: No encontrado (Clave)
+
+- Medidas de protección integral contra la violencia de género: Encontrado (Clave)
+
+- Protocolo VPR: Encontrado (Clave)
+
+- ISES 5/2021 de protocolo 0 primer contacto policial con VDG en situación de desprotección: No encontrado (Clave)
+
+- ISES 8/2021 medidas para prevenir VDG en agresores persistentes: No encontrado (Clave)
+
+- ISES 9/2022 actualiza procedimientos actuación de gestión de casos resistentes: No encontrado (Clave)
+
+- ISES 1/23  obligación de comunicación de la víctima de los antecedentes del agresor en caso de agresores persistentes: No encontrado (Clave)
+
+- ISES 5/2023 I PLANES estratégico para Prevención Violencia Sexual: No encontrado (Clave)
+
+- criterios para activación en activación de casos en Sistema de seguimiento integral de casos: Encontrado (Clave)
+
+- Guía de actuación policial ante Violencia de genero de la UFAM: No encontrado (Clave)
+
+- Actuación con la víctima medidas asistenciales de protección: Encontrado (Clave)
+
+- traslado a un centro sanitario!: No encontrado (Clave)
+
+- reconocimiento médico: Encontrado (Clave)
+
+- informe médico forense: No encontrado (Clave)
+
+- parte facultativo lesiones: Encontrado (Clave)
+
+- reportaje fotográfico: Encontrado (Clave)
+
+- entrevista reservada: Encontrado (Clave)
+
+- protocolo cero: Encontrado (Clave)
+
+- agresor persistente: Encontrado (Clave)
+
+- retirada de armas: Encontrado (Clave)
+
+- atención especializada de asistencia letrada: Encontrado (Clave)
+
+- solicitud de protección: Encontrado (Clave)
+
+- situación administrativa de la víctima extranjera: Encontrado (Clave)
+
+- juicio rápido: Encontrado (Clave)
+
+- Juzgado de Violencia de la Mujer: No encontrado (Clave)
+
+- fiscales especializados: No encontrado (Clave)
+
+- medidas de alejamiento: Encontrado (Clave)
+
+- registro central para la protección de víctimas de violencia doméstica: Encontrado (Clave)
+
+- SIRAJ: No encontrado (Clave)
+
+- aviso a servicios sociales y asistenciales a las víctimas: Encontrado (Clave)
+
+- Viogen: No encontrado (Clave)
+
+- riesgo no apreciado: Encontrado (Clave)
+
+- riesgo bajo: No encontrado (Clave)
+
+- riesgo medio: No encontrado (Clave)
+
+- riesgo alto: Encontrado (Clave)
+
+- riesgo extremo: No encontrado (Clave)
+
+- inactivación de casos: Encontrado (Clave)
+
+- plan de seguridad personalizado: Encontrado (Clave)
+
+- PSP: Encontrado (Clave)
+
+- evolución del nivel del riesgo: Encontrado (Clave)
+
+- seis meses: Encontrado (Clave)
+
+- medidas de autoprotección: No encontrado (Clave)
+
+- presencia de menores: Encontrado (Clave)
+
+- rutas de huida: Encontrado (Clave)
+
+- redes sociales: Encontrado (Clave)
+
+- policía local: Encontrado (Clave)
+
+- Fiscalía: No encontrado (Clave)
+
+- dispositivos telemáticos de control: No encontrado (Clave)
+
+- casos de especial relevancia: Encontrado (Clave)
+
+- víctima extranjera en situación irregular: Encontrado (Clave)
+
+- autorización de residencia y trabajo por circunstancias excepcionales: Encontrado (Clave)
+
+- resolución de expulsión o devolución: No encontrado (Clave)
+
+- solicitar el TIE: Encontrado (Clave)
+
+- autorización de residencia: Encontrado (Clave)
+
+- Diligencias de Policía judicial: No encontrado (Clave)
