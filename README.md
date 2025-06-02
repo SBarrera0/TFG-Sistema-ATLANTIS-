@@ -6,16 +6,10 @@ Este notebook está diseñado para analizar textos transcritos a partir de recon
 
 ## Herramienta para el sistema inteligente de análisis lingüístico para evaluación automatizada de voz y contenido 
 
-Dentro de la carpeta [Analisis](./analisis) se encuentra el código fuente de la herramienta utilizada para llevar
-a cabo la investigación. En el siguiente enlace se puede ver el [resultado](./A*******s.ipynb) de una
-ejecución con una muestra de *****
+Dentro de la carpeta [Conceptos_Clave](./Conceptos_Clave)  se encuentra el archivo de conceptos clave que sirven para agregar al sistema de evaluacion y testear su funcionamiento con los audios cargados. En el siguiente enlace [Metricas_Evaluacion_Opositores](./Metricas_Evaluacion_Opositores) se pueden obtner los archivos de audio, los informes reportados tras la subida del audio para una ejecución con una muestra.
 
-
+EN el siguente enlace, tiene acceso al código fuente de ATLANTIS.
 [Ver notebook]([./TFG_ATLANTIS.ipynb)
-
-## Herramienta introducion datos
-
-Dentro de la carpeta [datos](./datos) se encuentra los archivos que permiten realizar el seguimiento del trabajo así como las pruebas de rendimiento de la herramienta como audios con diferentes duraciones y la lista de conceptos determinada por el evaluador.
 
 ### Uso
 
